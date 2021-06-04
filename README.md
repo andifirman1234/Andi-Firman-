@@ -1,4 +1,4 @@
-## Implementation of Decision Tree and Random Forest classifiers in Python and Scala languages
+## UJUAN AKHIR SEMESTER (UAS) Menggunakan metode random forest classifier 
 
 Nama 		: Andi Firman
 Nim			: 181011402249
