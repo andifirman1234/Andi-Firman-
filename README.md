@@ -7,15 +7,15 @@ Kelas		: 06TPLE023
 ### Python
 - Kedua pengklasifikasi menggunakan Python3 dan tidak memerlukan perpustakaan pihak ketiga
 - Contoh pohon keputusan dapat diluncurkan dengan menjalankan:
-```sh
+sh
 cd python
 ./DecisionTree.py
-```
+
 - Contoh hutan acak diluncurkan dengan cara yang sama:
-```sh
+sh
 cd python
 ./RandomForest.py
-```
+
 
 ### Scala
 Versi scala berisi fungsi utama yang menjalankan contoh yang sama menggunakan pohon keputusan dan pengklasifikasi hutan acak.
