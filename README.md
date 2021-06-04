@@ -1,4 +1,4 @@
-## UJUAN AKHIR SEMESTER (UAS) Menggunakan metode random forest classifier (ANDI FIRMAN)
+## UJUAN AKHIR SEMESTER (UAS) Project AI Menggunakan metode random forest classifier (ANDI FIRMAN)
 
 Nama 		: Andi Firman
 Nim			: 181011402249
